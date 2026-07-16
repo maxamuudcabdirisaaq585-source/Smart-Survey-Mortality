@@ -1,10 +1,15 @@
 # Predicting Household Mortality from Survey Data
 
 ## Group Members
-- [Full Name 1]
-- [Full Name 2]
-- [Full Name 3]
-- [Full Name 4]
+1.Fuad Abdikarim Moalim Abukar
+2.Abdishakur Adam Mohamud
+3.Mohamed Muse Farah
+4.Mohamud Abdirizak Abdullahi
+5.Osama Mohamed Ahmed
+6.Mohamed Abdirahman Mohamud
+7.Mohamed Ali Ahmed
+8.Salim Mohamed Hussain
+
 
 ## Project Overview
 This project analyzes household mortality survey data from Somalia (2018–2023) to identify individuals at higher risk of death and to build a supervised machine learning system capable of flagging at-risk cases from routine survey data.
